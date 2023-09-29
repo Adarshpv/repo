@@ -1,43 +1,114 @@
-body, h1, h2, p {
-    margin: 0;
-    padding: 0;
+/* Flexbox Part 1 */
+
+#flex-section1 ul {
+
 }
-/* Defining some fonts of my choice */
-body {
-    font-family: Helvetica, sans-serif;
-    background-color: #f4f4f4;
-    color: #040400;
-    line-height: 1.6;
+
+/* end Flexbox Part 1 */
+
+
+/* Flexbox Part 2 */
+
+#flex-section2 ul {
+
 }
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
+
+#flex-section2 li {
+
 }
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+
+#flex-section2 .item1 {
+
 }
-h1 {
-    font-family: 'Lobster', cursive;
-    font-size: 36px;
-    margin-bottom: 20px;\
+
+#flex-section2 .item2 {
+
 }
-h2 {
-    font-size: 28px;
-    margin-top: 20px;
-    color: #b07272; /* Blue color for headings */
-    }
-p {
-    font-size: 18px;
-} /* The following will add unique style to the links if there are any present */
-a {
-    color: #007bff;
-    text-decoration: none;
-    transition: color 0.3s;
+
+#flex-section2 .item3 {
+
 }
-a:hover {
-    color: #0056b3; /* Darker blue on hover */
-        }
+
+/* end Flexbox Part 2 */
+
+
+/* Flexbox Part 3 */
+
+#flex-section3 .box {
+
+}
+
+#flex-section3 .tags ul {
+
+}
+
+/* end Flexbox Part 3 */
+
+
+/* Grid Part 1 */
+
+#grid-section1 .grid {
+
+}
+
+/* end Grid Part 1 */
+
+
+/* Grid Part 2 */
+
+#grid-section2 .gridboxblue {
+
+}
+
+#grid-section2 .gridboxred {
+
+}
+
+/* end Grid Part 2 */
+
+
+/* Grid Part 3 */
+
+#grid-section3 .grid {
+
+}
+
+#grid-section3 .box1 {
+
+}
+
+#grid-section3 .box2 {
+
+}
+
+#grid-section3 .box3 {
+
+}
+
+#grid-section3 .box4 {
+
+}
+
+/* end Grid Part 3 */
+
+
+/* Transition Part */
+
+#transition-section .box a {
+	display: inline-block;
+	background-color: #ccc;
+	color: #000;
+	padding: 20px;
+	text-decoration: none;
+
+
+}
+
+#transition-section .box a:hover {
+	background-color: #cc0000;
+	color: #fff;
+
+
+}
+
+/* end Transition Part */
